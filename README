@@ -21,7 +21,7 @@ http://developer.ubuntu.com/packaging/html/getting-set-up.html
 
 Make a .deb package
 ========================
-Execute dpkg-buildpackage -b under the src folder.
+Execute dpkg-buildpackage -b under the lovewallpaper folder.
 
 
 
